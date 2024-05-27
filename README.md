@@ -22,9 +22,10 @@ En proceso.
 Desarrollar un sistema que pueda reconocer y clasificar las emociones humanas a través de imágenes, utilizando técnicas de deep learning. 
 
 ## ESTRUCTURA DE CARPETAS - ACCESO AL PROYECTO
-<em> 📁 Dataset:                                                         
-     📁 Notebooks: dentro de la misma se podrá encontrar los archivos .ipynb que fueron trabajados por el equipo. Estos son:       
-                     *                                     
+<em> 📁 Dataset:datasets utilizados para los proyectos.                                                        
+     📁 notebook_imagen: dentro de la misma se podrá encontrar los archivos .ipynb que fueron trabajados por el equipo para el proyecto de clasificar emociones a partir de imágenes en el datset fer2013. 
+
+     
 </em>
      
 ## Dataset:
