@@ -13,7 +13,9 @@
 * Vila, Mariano | mvila.cba@gmail.com  
 
 ## PROFESORES:
-
+* Moisés Tinte.
+* Facundo Oliva Cúneo.
+* Carlos Charletti.
 
 ## ESTADO DEL PROYECTO: 
 En proceso.
@@ -29,7 +31,7 @@ Desarrollar un sistema que pueda reconocer y clasificar las emociones humanas a 
 </em>
      
 ## Dataset:
-Dataset. Link: 
+Dataset. FER-2013 (Facial Expression Recognition 2013) es un conjunto de datos utilizado ampliamente en la investigación sobre el reconocimiento de emociones a partir de imágenes faciales.
 
 ## Tablero Trello:
 https://trello.com/b/Zb14JzuO/trabajo-final-2024
@@ -45,5 +47,3 @@ https://trello.com/b/Zb14JzuO/trabajo-final-2024
 * TensorFlow y Keras: Para construir, entrenar y evaluar redes neuronales convolucionales.
 * Redes Neuronales Convolucionales (CNN): Estas redes son adecuadas para la tarea de reconocimiento de emociones faciales debido a su capacidad para capturar características espaciales y jerárquicas en las imágenes.
 
-
-## [WIKI DEL PROYECTO]
