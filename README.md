@@ -18,7 +18,7 @@
 * Carlos Charletti.
 
 ## ESTADO DEL PROYECTO: 
-En proceso.
+Finalizado.
 
 ## OBJETIVO: 
 Desarrollar un sistema que pueda reconocer y clasificar las emociones humanas a través de imágenes, utilizando técnicas de deep learning. 
